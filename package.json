@@ -10,7 +10,6 @@
 		"async": "0.9.x",
 		"morgan": "1.4.x",
 		"shelljs": "0.3.x",
-		"aws-sdk": "latest",
-		"aws2js": "latest"
+		"aws-sdk": "latest"
 	}
 }
